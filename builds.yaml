@@ -1,6 +1,6 @@
 inputs:
   - name: "custom_data"
-    metadata: "deltaInGreaterHoustonArea/data/adeltaInTexas.metadata.tsv"
+    metadata: "deltaInGreaterHoustonArea/data/deltaInTexas.metadata.tsv"
     sequences: "deltaInGreaterHoustonArea/data/deltaInTexas.sequences.fasta"
   - name: "reference_data"
     metadata: "data/references_metadata.tsv"
