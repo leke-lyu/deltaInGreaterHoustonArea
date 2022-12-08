@@ -1,10 +1,10 @@
 inputs:
-  - name: custom_data
-    metadata: data/adeltaInTexas.metadata.tsv
-    sequences: data/deltaInTexas.sequences.fasta
-  - name: reference_data
-    metadata: data/references_metadata.tsv
-    sequences: data/references_sequences.fasta
+  - name: "custom_data"
+    metadata: "my_profiles/deltaInGreaterHoustonArea/data/adeltaInTexas.metadata.tsv"
+    sequences: "my_profiles/deltaInGreaterHoustonArea/data/deltaInTexas.sequences.fasta"
+  - name: "reference_data"
+    metadata: "data/references_metadata.tsv"
+    sequences: "data/references_sequences.fasta"
 
 refine:
   root: "Wuhan-Hu-1/2019" # GenBank data includes "Wuhan-Hu-1/2019" which we use as the root for this build.
@@ -13,6 +13,8 @@ builds:
   texas:
     title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
     subsampling_scheme: all
+    colors: "my_profiles/deltaInGreaterHoustonArea/colors.tsv"
+    auspice_config: "my_profiles/deltaInGreaterHoustonArea/auspice_config.json"
 
 files:
   colors: "my_profiles/deltaInGreaterHoustonArea/colors.tsv"
