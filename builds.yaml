@@ -1,56 +1,23 @@
-title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
-
 inputs:
-  - name: gisaid
-    metadata: data/gisaid/gisaid.tsv
-    sequences: data/gisaid/gisaid.fasta
-  - name: HHDaa
-    metadata: data/HHDaa/HHDaa.tsv
-    sequences: data/HHDaa/HHDaa.fasta
-  - name: HHDab
-    metadata: data/HHDab/HHDab.tsv
-    sequences: data/HHDab/HHDab.fasta
-  - name: HHDac
-    metadata: data/HHDac/HHDac.tsv
-    sequences: data/HHDac/HHDac.fasta
-  - name: HHDad
-    metadata: data/HHDad/HHDad.tsv
-    sequences: data/HHDad/HHDad.fasta
-  - name: references
+  - name: custom_data
+    metadata: data/adeltaInTexas.metadata.tsv
+    sequences: data/deltaInTexas.sequences.fasta
+  - name: reference_data
     metadata: data/references_metadata.tsv
     sequences: data/references_sequences.fasta
 
+refine:
+  root: "Wuhan-Hu-1/2019" # GenBank data includes "Wuhan-Hu-1/2019" which we use as the root for this build.
+
 builds:    
   texas:
+    title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
     subsampling_scheme: all
-    region: North America
-    country: USA
-    division: Texas
-    location: Harris county
-    colors: "my_profiles/houstonDelta/colors.tsv"
-
-subsampling:
-  greaterHouston:
-    houston: 
-      max_sequences: 2000
-      exclude: "--exclude-where 'region!={region}' 'country!={country}' 'division!={division}' 'location!={location}'"
-    otherTexas: 
-      max_sequences: 2000
-      exclude: "--exclude-where 'region!={region}' 'country!={country}' 'division!={division}' 'location={location}'"
-    country:
-      max_sequences: 2000
-      exclude: "--exclude-where 'region!={region}' 'country!={country}' 'division={division}'"
-    region:
-      max_sequences: 1000
-      exclude: "--exclude-where 'region!={region}' 'country={country}'"
-    global:
-      max_sequences: 1000
-      exclude: "--exclude-where 'region={region}'"
 
 files:
-  colors: "my_profiles/houstonDelta/colors.tsv"
-  auspice_config: "my_profiles/houstonDelta/auspice_config.json"
-  description: "my_profiles/houstonDelta/description.md"
+  colors: "my_profiles/deltaInGreaterHoustonArea/colors.tsv"
+  auspice_config: "my_profiles/deltaInGreaterHoustonArea/auspice_config.json"
+  description: "my_profiles/deltaInGreaterHoustonArea/description.md"
 
 traits:
   texas:
