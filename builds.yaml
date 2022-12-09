@@ -6,9 +6,6 @@ inputs:
     metadata: "data/references_metadata.tsv"
     sequences: "data/references_sequences.fasta"
 
-refine:
-  root: "Wuhan-Hu-1/2019" # GenBank data includes "Wuhan-Hu-1/2019" which we use as the root for this build.
-
 builds:    
   texas:
     title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
