@@ -15,15 +15,15 @@ cd ncov
 ```
 Replace the lat_longs.tsv:
 
-```shell
-rm defaults/lat_longs.tsv
-cp deltaInGreaterHoustonArea/lat_longs.tsv defaults/
-```
-
 Download this repository into a new subdirectory of ncov/ called deltaInGreaterHoustonArea/:
 
 ```shell
 git clone https://github.com/leke-lyu/deltaInGreaterHoustonArea.git
+```
+
+```shell
+rm defaults/lat_longs.tsv
+cp deltaInGreaterHoustonArea/lat_longs.tsv defaults/
 ```
 
 From within the ncov/ directory, run the workflow using a configuration file provided in the tutorial directory:
