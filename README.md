@@ -13,6 +13,12 @@ Change directory to the ncov directory:
 ```shell
 cd ncov
 ```
+Replace the lat_longs.tsv:
+
+```shell
+rm defaults/lat_longs.tsv
+cp deltaInGreaterHoustonArea/lat_longs.tsv defaults/
+```
 
 Download this repository into a new subdirectory of ncov/ called deltaInGreaterHoustonArea/:
 
