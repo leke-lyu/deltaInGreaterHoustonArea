@@ -1,0 +1,500 @@
+region	North America	28.2367447	-97.738017
+region	Africa	4.070194	21.824559
+region	Europe	49.646237	10.799454
+region	Oceania	-25.0562891	152.008576
+region	Asia	35.000074	104.999927
+region	South America	-13.083583	-58.470721
+country	Africa	4.070194	21.824559
+country	Europe	49.646237	10.799454
+country	Oceania	-25.0562891	152.008576
+country	Asia	35.000074	104.999927
+country	South America	-13.083583	-58.470721
+country	Anguilla	18.22	-63.07
+country	Antigua And Barbuda	17.06	-61.8
+country	Aruba	12.52	-69.97
+country	Barbados	13.19	-59.54
+country	Belize	17.19	-88.5
+country	Bermuda	32.32	-64.76
+country	Bonaire	12.2	-68.26
+country	British Virgin Islands	18.42	-64.64
+country	Canada	56.13	-106.35
+country	Cayman Islands	19.51	-80.57
+country	Costa Rica	9.75	-83.75
+country	Cuba	21.52	-77.78
+country	Curacao	12.17	-68.99
+country	Dominica	15.41	-61.37
+country	Dominican Republic	18.74	-70.16
+country	El Salvador	13.79	-88.9
+country	Greenland	71.71	-42.6
+country	Grenada	12.26	-61.6
+country	Guadeloupe	17	-62.07
+country	Guatemala	15.78	-90.23
+country	Haiti	18.97	-72.29
+country	Honduras	15.2	-86.24
+country	Jamaica	18.11	-77.3
+country	Martinique	14.64	-61.02
+country	Mexico	23.63	-102.55
+country	Montserrat	16.74	-62.19
+country	Netherlands Antilles	12.23	-69.06
+country	Nicaragua	12.87	-85.21
+country	Panama	8.54	-80.78
+country	Puerto Rico	18.22	-66.59
+country	Saint Barthelemy	17.9	-62.83
+country	Saint Kitts And Nevis	17.36	-62.78
+country	Saint Lucia	13.91	-60.98
+country	Saint Martin	18.07	-63.05
+country	Saint Pierre And Miquelon	46.94	-56.27
+country	Saint Vincent And The Grenadines	12.98	-61.29
+country	Sint Maarten	18.03	-63.05
+country	The Bahamas	25.03	-77.4
+country	Trinidad And Tobago	10.69	-61.22
+country	Turks And Caicos Islands	21.69	-71.8
+country	USA	37.09	-95.71
+country	US Virgin Islands	18.34	-64.9
+division	Africa	4.070194	21.824559
+division	Europe	49.646237	10.799454
+division	Oceania	-25.0562891	152.008576
+division	Asia	35.000074	104.999927
+division	South America	-13.083583	-58.470721
+division	Anguilla	18.22	-63.07
+division	Antigua And Barbuda	17.06	-61.8
+division	Aruba	12.52	-69.97
+division	Barbados	13.19	-59.54
+division	Belize	17.19	-88.5
+division	Bermuda	32.32	-64.76
+division	Bonaire	12.2	-68.26
+division	British Virgin Islands	18.42	-64.64
+division	Canada	56.13	-106.35
+division	Cayman Islands	19.51	-80.57
+division	Costa Rica	9.75	-83.75
+division	Cuba	21.52	-77.78
+division	Curacao	12.17	-68.99
+division	Dominica	15.41	-61.37
+division	Dominican Republic	18.74	-70.16
+division	El Salvador	13.79	-88.9
+division	Greenland	71.71	-42.6
+division	Grenada	12.26	-61.6
+division	Guadeloupe	17	-62.07
+division	Guatemala	15.78	-90.23
+division	Haiti	18.97	-72.29
+division	Honduras	15.2	-86.24
+division	Jamaica	18.11	-77.3
+division	Martinique	14.64	-61.02
+division	Mexico	23.63	-102.55
+division	Montserrat	16.74	-62.19
+division	Netherlands Antilles	12.23	-69.06
+division	Nicaragua	12.87	-85.21
+division	Panama	8.54	-80.78
+division	Puerto Rico	18.22	-66.59
+division	Saint Barthelemy	17.9	-62.83
+division	Saint Kitts And Nevis	17.36	-62.78
+division	Saint Lucia	13.91	-60.98
+division	Saint Martin	18.07	-63.05
+division	Saint Pierre And Miquelon	46.94	-56.27
+division	Saint Vincent And The Grenadines	12.98	-61.29
+division	Sint Maarten	18.03	-63.05
+division	The Bahamas	25.03	-77.4
+division	Trinidad And Tobago	10.69	-61.22
+division	Turks And Caicos Islands	21.69	-71.8
+division	US Virgin Islands	18.34	-64.9
+division	Wisconsin	44.500000	-89.500000
+division	West Virginia	39.000000	-80.500000
+division	Vermont	44.000000	-72.699997
+division	Texas	31.000000	-100.000000
+division	South Dakota	44.500000	-100.000000
+division	Rhode Island	41.742325	-71.742332
+division	Oregon	44.000000	-120.500000
+division	New York	43.000000	-75.000000
+division	New Hampshire	44.000000	-71.500000
+division	Nebraska	41.500000	-100.000000
+division	Kansas	38.500000	-98.000000
+division	Mississippi	33.000000	-90.000000
+division	Illinois	40.000000	-89.000000
+division	Delaware	39.000000	-75.500000
+division	Connecticut	41.599998	-72.699997
+division	Arkansas	34.799999	-92.199997
+division	Indiana	40.273502	-86.126976
+division	Missouri	38.573936	-92.603760
+division	Florida	27.994402	-81.760254
+division	Nevada	39.876019	-117.224121
+division	Maine	45.367584	-68.972168
+division	Michigan	44.182205	-84.506836
+division	Georgia	33.247875	-83.441162
+division	Hawaii	19.741755	-155.844437
+division	Alaska	66.160507	-153.369141
+division	Tennessee	35.860119	-86.660156
+division	Virginia	37.926868	-78.024902
+division	New Jersey	39.833851	-74.871826
+division	Kentucky	37.839333	-84.270020
+division	North Dakota	47.650589	-100.437012
+division	Minnesota	46.392410	-94.636230
+division	Oklahoma	36.084621	-96.921387
+division	Montana	46.965260	-109.533691
+division	Washington	47.751076	-120.740135
+division	Utah	39.419220	-111.950684
+division	Colorado	39.113014	-105.358887
+division	Ohio	40.367474	-82.996216
+division	Alabama	32.318230	-86.902298
+division	Iowa	42.032974	-93.581543
+division	New Mexico	34.307144	-106.018066
+division	South Carolina	33.836082	-81.163727
+division	Pennsylvania	41.203323	-77.194527
+division	Arizona	34.048927	-111.093735
+division	Maryland	39.045753	-76.641273
+division	Massachusetts	42.407211	-71.382439
+division	California	36.778259	-119.417931
+division	Idaho	44.068203	-114.742043
+division	Wyoming	43.075970	-107.290283
+division	North Carolina	35.782169	-80.793457
+division	Louisiana	30.391830	-92.329102
+division	District of Columbia	38.942142	-77.025955
+location	Africa	4.070194	21.824559
+location	Europe	49.646237	10.799454
+location	Oceania	-25.0562891	152.008576
+location	Asia	35.000074	104.999927
+location	South America	-13.083583	-58.470721
+location	Anguilla	18.22	-63.07
+location	Antigua And Barbuda	17.06	-61.8
+location	Aruba	12.52	-69.97
+location	Barbados	13.19	-59.54
+location	Belize	17.19	-88.5
+location	Bermuda	32.32	-64.76
+location	Bonaire	12.2	-68.26
+location	British Virgin Islands	18.42	-64.64
+location	Canada	56.13	-106.35
+location	Cayman Islands	19.51	-80.57
+location	Costa Rica	9.75	-83.75
+location	Cuba	21.52	-77.78
+location	Curacao	12.17	-68.99
+location	Dominica	15.41	-61.37
+location	Dominican Republic	18.74	-70.16
+location	El Salvador	13.79	-88.9
+location	Greenland	71.71	-42.6
+location	Grenada	12.26	-61.6
+location	Guadeloupe	17	-62.07
+location	Guatemala	15.78	-90.23
+location	Haiti	18.97	-72.29
+location	Honduras	15.2	-86.24
+location	Jamaica	18.11	-77.3
+location	Martinique	14.64	-61.02
+location	Mexico	23.63	-102.55
+location	Montserrat	16.74	-62.19
+location	Netherlands Antilles	12.23	-69.06
+location	Nicaragua	12.87	-85.21
+location	Panama	8.54	-80.78
+location	Puerto Rico	18.22	-66.59
+location	Saint Barthelemy	17.9	-62.83
+location	Saint Kitts And Nevis	17.36	-62.78
+location	Saint Lucia	13.91	-60.98
+location	Saint Martin	18.07	-63.05
+location	Saint Pierre And Miquelon	46.94	-56.27
+location	Saint Vincent And The Grenadines	12.98	-61.29
+location	Sint Maarten	18.03	-63.05
+location	The Bahamas	25.03	-77.4
+location	Trinidad And Tobago	10.69	-61.22
+location	Turks And Caicos Islands	21.69	-71.8
+location	US Virgin Islands	18.34	-64.9
+location	Wisconsin	44.500000	-89.500000
+location	West Virginia	39.000000	-80.500000
+location	Vermont	44.000000	-72.699997
+location	South Dakota	44.500000	-100.000000
+location	Rhode Island	41.742325	-71.742332
+location	Oregon	44.000000	-120.500000
+location	New York	43.000000	-75.000000
+location	New Hampshire	44.000000	-71.500000
+location	Nebraska	41.500000	-100.000000
+location	Kansas	38.500000	-98.000000
+location	Mississippi	33.000000	-90.000000
+location	Illinois	40.000000	-89.000000
+location	Delaware	39.000000	-75.500000
+location	Connecticut	41.599998	-72.699997
+location	Arkansas	34.799999	-92.199997
+location	Indiana	40.273502	-86.126976
+location	Missouri	38.573936	-92.603760
+location	Florida	27.994402	-81.760254
+location	Nevada	39.876019	-117.224121
+location	Maine	45.367584	-68.972168
+location	Michigan	44.182205	-84.506836
+location	Georgia	33.247875	-83.441162
+location	Hawaii	19.741755	-155.844437
+location	Alaska	66.160507	-153.369141
+location	Tennessee	35.860119	-86.660156
+location	Virginia	37.926868	-78.024902
+location	New Jersey	39.833851	-74.871826
+location	Kentucky	37.839333	-84.270020
+location	North Dakota	47.650589	-100.437012
+location	Minnesota	46.392410	-94.636230
+location	Oklahoma	36.084621	-96.921387
+location	Montana	46.965260	-109.533691
+location	Washington	47.751076	-120.740135
+location	Utah	39.419220	-111.950684
+location	Colorado	39.113014	-105.358887
+location	Ohio	40.367474	-82.996216
+location	Alabama	32.318230	-86.902298
+location	Iowa	42.032974	-93.581543
+location	New Mexico	34.307144	-106.018066
+location	South Carolina	33.836082	-81.163727
+location	Pennsylvania	41.203323	-77.194527
+location	Arizona	34.048927	-111.093735
+location	Maryland	39.045753	-76.641273
+location	Massachusetts	42.407211	-71.382439
+location	California	36.778259	-119.417931
+location	Idaho	44.068203	-114.742043
+location	Wyoming	43.075970	-107.290283
+location	North Carolina	35.782169	-80.793457
+location	Louisiana	30.391830	-92.329102
+location	District of Columbia	38.942142	-77.025955
+location	Anderson county	31.8287153846154	-95.7132769230769
+location	Andrews county	32.3201	-102.5409
+location	Angelina county	31.2956333333333	-94.6765555555556
+location	Aransas county	28.0351	-97.0678333333333
+location	Archer county	33.61176	-98.63046
+location	Armstrong county	34.94475	-101.4642
+location	Atascosa county	28.9402	-98.5067444444445
+location	Austin county	29.8802111111111	-96.3001555555555
+location	Bailey county	33.9803666666667	-102.802666666667
+location	Bandera county	29.72908	-99.22344
+location	Bastrop county	30.1217	-97.2989
+location	Baylor county	33.5914	-99.2587
+location	Bee county	28.4577222222222	-97.8140555555556
+location	Bell county	31.0506086956522	-97.5121130434783
+location	Bexar county	29.455175	-98.4962291666667
+location	Blanco county	30.263	-98.438975
+location	Borden county	32.7523	-101.45
+location	Bosque county	31.9047888888889	-97.6203
+location	Bowie county	33.4293076923077	-94.2336461538462
+location	Brazoria county	29.2385333333333	-95.4489761904762
+location	Brazos county	30.638425	-96.333325
+location	Brewster county	29.9550833333333	-103.5093
+location	Briscoe county	34.42185	-101.1817
+location	Brooks county	27.07455	-98.1665
+location	Brown county	31.7513	-98.9835
+location	Burleson county	30.4709166666667	-96.6367833333333
+location	Burnet county	30.75715	-98.1406
+location	Caldwell county	29.8195571428571	-97.7277571428571
+location	Calhoun county	28.53115	-96.57115
+location	Callahan county	32.323525	-99.31975
+location	Cameron county	26.1105285714286	-97.5958047619048
+location	Camp county	32.9693	-95.0341
+location	Carson county	35.398475	-101.22625
+location	Cass county	33.0438090909091	-94.3009090909091
+location	Castro county	34.5525	-102.25835
+location	Chambers county	29.8015142857143	-94.6205428571429
+location	Cherokee county	31.8304555555556	-95.1504555555556
+location	Childress county	34.39315	-100.3156
+location	Clay county	33.8335	-98.21272
+location	Cochran county	33.6412	-102.7987
+location	Coke county	31.890525	-100.44745
+location	Coleman county	31.77792	-99.50678
+location	Collin county	33.14936875	-96.63060625
+location	Collingsworth county	34.9016	-100.2388
+location	Colorado county	29.5866727272727	-96.5575
+location	Comal county	29.7915666666667	-98.2356555555556
+location	Comanche county	31.9249	-98.5210166666667
+location	Concho county	31.41374	-99.92796
+location	Cooke county	33.5805625	-97.2698
+location	Coryell county	31.40295	-97.7968166666667
+location	Cottle county	34.1256	-100.37795
+location	Crane county	31.3969	-102.3544
+location	Crockett county	30.7164	-101.2388
+location	Crosby county	33.6693	-101.38
+location	Culberson county	31.0391	-104.8245
+location	Dallam county	36.3142666666667	-102.581633333333
+location	Dallas county	32.7967581818182	-96.7870206060606
+location	Dawson county	32.7312666666667	-101.933566666667
+location	Deaf Smith county	34.8738	-102.3026
+location	Delta county	33.4036166666667	-95.69435
+location	Denton county	33.15401	-97.0845666666667
+location	DeWitt county	29.0580571428571	-97.3711
+location	Dickens county	33.655025	-100.86555
+location	Dimmit county	28.473325	-99.69405
+location	Donley county	34.9023333333333	-100.781066666667
+location	Duval county	27.60824	-98.41872
+location	Eastland county	32.324125	-98.7842375
+location	Ector county	31.8620307692308	-102.438538461538
+location	Edwards county	30.0581333333333	-100.080733333333
+location	Ellis county	32.33336875	-96.78236875
+location	El Paso county	31.7208531034483	-106.342807586207
+location	Erath county	32.2414666666667	-98.2291
+location	Falls county	31.2409166666667	-96.9705166666667
+location	Fannin county	33.5584266666667	-96.1437133333333
+location	Fayette county	29.9443153846154	-96.8555384615385
+location	Fisher county	32.769275	-100.3356
+location	Floyd county	34.0863	-101.3376
+location	Foard county	33.9912	-99.6983
+location	Fort Bend county	29.5663272727273	-95.7248909090909
+location	Franklin county	33.1841333333333	-95.1546666666667
+location	Freestone county	31.7163	-96.2871666666667
+location	Frio county	28.920775	-99.036925
+location	Gaines county	32.8563	-102.561
+location	Galveston county	29.4061739130435	-94.9219956521739
+location	Garza county	33.13055	-101.29015
+location	Gillespie county	30.33766	-98.91386
+location	Glasscock county	31.8491	-101.5269
+location	Goliad county	28.692875	-97.41365
+location	Gonzales county	29.47492	-97.57612
+location	Gray county	35.3938	-100.81596
+location	Grayson county	33.61855	-96.6698611111111
+location	Gregg county	32.49496	-94.7849666666667
+location	Grimes county	30.5547875	-95.96235
+location	Guadalupe county	29.6095555555556	-98.0367444444445
+location	Hale county	34.0447142857143	-101.8311
+location	Hall county	34.579625	-100.63775
+location	Hamilton county	31.801475	-98.16195
+location	Hansford county	36.1797	-101.359
+location	Hardeman county	34.2697	-99.63255
+location	Hardin county	30.3292333333333	-94.4455888888889
+location	Harris county	29.8113012931034	-95.4048672413793
+location	Harrison county	32.5439090909091	-94.2967454545455
+location	Hartley county	35.78465	-102.36355
+location	Haskell county	33.2382666666667	-99.8254
+location	Hays county	30.0541	-97.9826857142857
+location	Hemphill county	35.9045	-100.3841
+location	Henderson county	32.2172636363636	-95.8228727272727
+location	Hidalgo county	26.2627066666667	-98.1778833333333
+location	Hill county	31.9734133333333	-97.0510266666667
+location	Hockley county	33.62745	-102.32755
+location	Hood county	32.4272	-97.8099666666667
+location	Hopkins county	33.1486333333333	-95.5267111111111
+location	Houston county	31.3332666666667	-95.35925
+location	Howard county	32.27384	-101.43402
+location	Hudspeth county	31.560175	-105.39955
+location	Hunt county	33.1560923076923	-96.0763230769231
+location	Hutchinson county	35.70388	-101.47278
+location	Irion county	31.22125	-101.00695
+location	Jack county	33.17345	-98.25445
+location	Jackson county	28.8619142857143	-96.5267571428571
+location	Jasper county	30.562925	-93.990125
+location	Jeff Davis county	30.61655	-104.20875
+location	Jefferson county	30.0116625	-94.1099291666667
+location	Jim Hogg county	27.0914	-98.78825
+location	Jim Wells county	27.7451666666667	-98.037
+location	Johnson county	32.4136583333333	-97.307675
+location	Jones county	32.8284666666667	-99.8346333333333
+location	Karnes county	28.9443625	-97.8670875
+location	Kaufman county	32.56174	-96.30143
+location	Kendall county	29.91622	-98.6954
+location	Kenedy county	27.0097	-97.8137
+location	Kent county	33.3075	-100.6381
+location	Kerr county	30.0445333333333	-99.2590833333333
+location	Kimble county	30.5407333333333	-99.8046333333333
+location	King county	33.6206	-100.3229
+location	Kinney county	29.3096	-100.4155
+location	Kleberg county	27.4201666666667	-97.8251666666667
+location	Knox county	33.4833	-99.6911
+location	Lamar county	33.6601928571429	-95.5504714285714
+location	Lamb county	34.0790375	-102.3152375
+location	Lampasas county	31.121425	-98.269
+location	La Salle county	28.308225	-99.180275
+location	Lavaca county	29.4258	-97.0318833333333
+location	Lee county	30.3181	-96.94515
+location	Leon county	31.2843888888889	-96.0400444444444
+location	Liberty county	30.2004181818182	-94.7898
+location	Limestone county	31.5843428571429	-96.5927428571429
+location	Lipscomb county	36.33572	-100.28428
+location	Live Oak county	28.42178	-98.1229
+location	Llano county	30.7416125	-98.5785625
+location	Loving county	31.7068	-103.5988
+location	Lubbock county	33.5774875	-101.858715625
+location	Lynn county	33.212775	-101.8204
+location	McCulloch county	31.2258333333333	-99.3707833333333
+location	McLennan county	31.543996875	-97.1693125
+location	McMullen county	28.45015	-98.4598
+location	Madison county	30.9541333333333	-95.9035
+location	Marion county	32.83885	-94.3192
+location	Martin county	32.2673666666667	-101.882266666667
+location	Mason county	30.8306	-99.104375
+location	Matagorda county	28.8909769230769	-96.0278615384615
+location	Maverick county	28.704825	-100.46565
+location	Medina county	29.3178111111111	-98.9799222222222
+location	Menard county	30.8741666666667	-99.8065333333333
+location	Midland county	31.9391727272727	-102.066981818182
+location	Milam county	30.78475	-97.016075
+location	Mills county	31.532525	-98.5204
+location	Mitchell county	32.3908666666667	-100.872066666667
+location	Montague county	33.6532857142857	-97.7355714285714
+location	Montgomery county	30.254452	-95.485216
+location	Moore county	35.892275	-101.9353
+location	Morris county	33.0705	-94.74374
+location	Motley county	34.0607666666667	-100.897566666667
+location	Nacogdoches county	31.6437615384615	-94.6174
+location	Navarro county	32.0531333333333	-96.512225
+location	Newton county	30.7395833333333	-93.7601333333333
+location	Nolan county	32.29534	-100.3912
+location	Nueces county	27.7537459459459	-97.4741702702703
+location	Ochiltree county	36.3142333333333	-100.948066666667
+location	Oldham county	35.305475	-102.388125
+location	Orange county	30.1136875	-93.87985
+location	Palo Pinto county	32.69835	-98.2907
+location	Panola county	32.1704	-94.3495285714286
+location	Parker county	32.8201583333333	-97.7966916666667
+location	Parmer county	34.481525	-102.79605
+location	Pecos county	31.0108666666667	-102.465
+location	Polk county	30.77961	-94.85631
+location	Potter county	35.2922090909091	-101.871195454545
+location	Presidio county	29.7735	-104.148466666667
+location	Rains county	32.8469666666667	-95.7430666666667
+location	Randall county	35.0599444444444	-101.914055555556
+location	Reagan county	31.417	-101.5423
+location	Real county	29.6993333333333	-99.8242666666667
+location	Red River county	33.6132833333333	-95.05215
+location	Reeves county	31.2606833333333	-103.747466666667
+location	Refugio county	28.29958	-97.11046
+location	Roberts county	35.7193	-100.7027
+location	Robertson county	30.9549	-96.5466142857143
+location	Rockwall county	32.934875	-96.399375
+location	Runnels county	31.8126333333333	-100.060866666667
+location	Rusk county	32.1609	-94.8244615384615
+location	Sabine county	31.28432	-93.91586
+location	San Augustine county	31.4052	-94.1741
+location	San Jacinto county	30.64315	-95.16105
+location	San Patricio county	27.95104	-97.41471
+location	San Saba county	31.1478666666667	-98.769
+location	Schleicher county	30.8667	-100.5889
+location	Scurry county	32.6824333333333	-100.93005
+location	Shackelford county	32.63695	-99.2426
+location	Shelby county	31.8537	-94.1726
+location	Sherman county	36.4195	-101.88575
+location	Smith county	32.3362818181818	-95.2725681818182
+location	Somervell county	32.2607666666667	-97.7087
+location	Starr county	26.5001111111111	-98.7527111111111
+location	Stephens county	32.7209	-98.78445
+location	Sterling county	31.8351	-101.0017
+location	Stonewall county	33.12995	-100.14515
+location	Sutton county	30.5558	-100.6307
+location	Swisher county	34.5513	-101.788833333333
+location	Tarrant county	32.7691989690722	-97.2604206185567
+location	Taylor county	32.3934555555556	-99.7994111111111
+location	Terrell county	30.08335	-102.256
+location	Terry county	33.1830666666667	-102.317866666667
+location	Throckmorton county	33.12675	-99.1192
+location	Titus county	33.18515	-94.9811
+location	Tom Green county	31.4393	-100.42725625
+location	Travis county	30.30780125	-97.7615025
+location	Trinity county	31.11935	-95.1230333333333
+location	Tyler county	30.7437111111111	-94.3687222222222
+location	Upshur county	32.6796166666667	-94.9157333333333
+location	Upton county	31.3003	-102.027933333333
+location	Uvalde county	29.3585166666667	-99.6598166666667
+location	Val Verde county	29.493	-101.053057142857
+location	Van Zandt county	32.6034714285714	-95.7969285714286
+location	Victoria county	28.7959363636364	-96.9679545454545
+location	Walker county	30.7310636363636	-95.5242454545455
+location	Waller county	29.97422	-95.99326
+location	Ward county	31.4998	-103.05752
+location	Washington county	30.2045	-96.37052
+location	Webb county	27.49729	-99.30304
+location	Wharton county	29.2947	-96.1652166666667
+location	Wheeler county	35.47344	-100.23972
+location	Wichita county	33.9349230769231	-98.5780615384615
+location	Wilbarger county	34.17196	-99.23282
+location	Willacy county	26.4388285714286	-97.8195142857143
+location	Williamson county	30.6182481481481	-97.6527777777778
+location	Wilson county	29.2252	-98.0339666666667
+location	Winkler county	31.80385	-103.1237
+location	Wise county	33.20992	-97.59686
+location	Wood county	32.78085	-95.41775
+location	Yoakum county	33.1143666666667	-102.745833333333
+location	Young county	33.18472	-98.65242
+location	Zapata county	26.8812	-99.2668666666667
+location	Zavala county	28.8548	-99.7628666666667
