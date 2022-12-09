@@ -11,12 +11,10 @@ builds:
     title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
     subsampling_scheme: all
     colors: "deltaInGreaterHoustonArea/colors.tsv"
-    lat-longs: "deltaInGreaterHoustonArea/lat_longs.tsv"
     auspice_config: "deltaInGreaterHoustonArea/auspice_config.json"
 
 files:
   colors: "deltaInGreaterHoustonArea/colors.tsv"
-  lat-longs: "deltaInGreaterHoustonArea/lat_longs.tsv"
   auspice_config: "deltaInGreaterHoustonArea/auspice_config.json"
   description: "deltaInGreaterHoustonArea/description.md"
 
