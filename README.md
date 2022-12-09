@@ -1,18 +1,27 @@
-# ncov-tutorial
+# Nextstrain Instance: the transmission of Delta variant in the greater Houston area
 
 <!-- TODO: update links -->
 
-File paths in the [config files] must start with the [analysis directory]. For example, in the tutorial:
+Use Git to download a copy of the ncov repository containing the workflow.
 
-```yaml
-auspice_config: ncov-tutorial/auspice-config-custom-data.json
+```shell
+git clone https://github.com/nextstrain/ncov.git
 ```
 
-Now that you have created your own analysis directory, this must be modified, e.g.
+Change directory to the ncov directory:
 
-```yaml
-auspice_config: my-ncov-analyses/auspice-config-custom-data.json
+```shell
+cd ncov
 ```
 
-[config files]: https://nextstrain--894.org.readthedocs.build/projects/ncov/en/894/reference/glossary.html#term-config-file
-[analysis directory]: https://nextstrain--894.org.readthedocs.build/projects/ncov/en/894/reference/glossary.html#term-analysis-directory
+Download this repository into a new subdirectory of ncov/ called deltaInGreaterHoustonArea/:
+
+```shell
+git clone https://github.com/leke-lyu/deltaInGreaterHoustonArea.git
+```
+
+From within the ncov/ directory, run the workflow using a configuration file provided in the tutorial directory:
+
+```shell
+nextstrain build . --configfile deltaInGreaterHoustonArea/builds.yaml 
+```
