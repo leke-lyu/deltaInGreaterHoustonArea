@@ -3,8 +3,8 @@ inputs:
     metadata: "deltaInGreaterHoustonArea/data/deltaInTexas.metadata.tsv"
     sequences: "deltaInGreaterHoustonArea/data/deltaInTexas.sequences.fasta"
   - name: "reference_data"
-    metadata: "data/references_metadata.tsv"
-    sequences: "data/references_sequences.fasta"
+    metadata: "deltaInGreaterHoustonArea/data/references_metadata.tsv"
+    sequences: "deltaInGreaterHoustonArea/data/references_sequences.fasta"
 
 builds:    
   texas:
