@@ -1,29 +1,29 @@
 inputs:
-  - name: "custom_data"
-    metadata: "deltaInGreaterHoustonArea/data/deltaInTexas.metadata.tsv"
-    sequences: "deltaInGreaterHoustonArea/data/deltaInTexas.sequences.fasta"
-  - name: "reference_data"
-    metadata: "deltaInGreaterHoustonArea/data/references_metadata.tsv"
-    sequences: "deltaInGreaterHoustonArea/data/references_sequences.fasta"
+	- name: "custom_data"
+		metadata: "deltaInGreaterHoustonArea/data/deltaInTexas.metadata.tsv"
+		sequences: "deltaInGreaterHoustonArea/data/deltaInTexas.sequences.fasta"
+	- name: "reference_data"
+		metadata: "deltaInGreaterHoustonArea/data/references_metadata.tsv"
+		sequences: "deltaInGreaterHoustonArea/data/references_sequences.fasta"
 
 builds:    
-  texas_global:
-    title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
-    subsampling_scheme: all
-    colors: "deltaInGreaterHoustonArea/colors.tsv"
-    auspice_config: "deltaInGreaterHoustonArea/auspice_config.json"
+	texas_global:
+		title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
+		subsampling_scheme: all
+		colors: "deltaInGreaterHoustonArea/colors.tsv"
+		auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_global.json"
 	texas_usa:
-    title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
-    subsampling_scheme: custom-usa
-    country: USA
-    colors: "deltaInGreaterHoustonArea/colors.tsv"
-    auspice_config: "deltaInGreaterHoustonArea/auspice_config.json"
+		title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
+		subsampling_scheme: custom-usa
+		country: USA
+		colors: "deltaInGreaterHoustonArea/colors.tsv"
+		auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_usa.json"
 	texas_self:
 		title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
-    subsampling_scheme: custom-texas
-    division: Texas
-    colors: "deltaInGreaterHoustonArea/colors.tsv"
-    auspice_config: "deltaInGreaterHoustonArea/auspice_config.json"
+		subsampling_scheme: custom-texas
+		division: Texas
+		colors: "deltaInGreaterHoustonArea/colors.tsv"
+		auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_self.json"
 
 subsampling:
 	custom-usa:
@@ -32,10 +32,16 @@ subsampling:
 		exclude: "--exclude-where 'division!={division}'"
 
 files:
-  colors: "deltaInGreaterHoustonArea/colors.tsv"
-  auspice_config: "deltaInGreaterHoustonArea/auspice_config.json"
-  description: "deltaInGreaterHoustonArea/description.md"
+	colors: "deltaInGreaterHoustonArea/colors.tsv"
+	auspice_config: "deltaInGreaterHoustonArea/auspice_config.json"
+	description: "deltaInGreaterHoustonArea/description.md"
 
 traits:
-  texas_global:
-    columns: ["country", "division", "location"]
+	texas_global:
+		columns: ["country", "division", "location"]
+	texas_usa:
+		columns: ["division", "location"]
+	texas_self:
+		columns: ["location"]
+
+

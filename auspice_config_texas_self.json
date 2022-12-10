@@ -6,11 +6,6 @@
   ],
   "colorings": [
     {
-      "key": "pangolin_lineage",
-      "title": "Pangolin lineage",
-      "type": "categorical"
-    },
-    {
       "key": "GISAID_clade",
       "title": "GISAID Clade",
       "type": "categorical"
@@ -18,21 +13,6 @@
     {
       "key": "location",
       "title": "Location",
-      "type": "categorical"
-    },
-    {
-      "key": "division",
-      "title": "Admin Division",
-      "type": "categorical"
-    },
-    {
-      "key": "country",
-      "title": "Country",
-      "type": "categorical"
-    },
-    {
-      "key": "region",
-      "title": "Region",
       "type": "categorical"
     },
     {
@@ -47,15 +27,12 @@
     }
   ],
   "geo_resolutions": [
-    "location",
-    "division",
-    "country",
-    "region"
+    "location"
   ],
   "display_defaults": {
-    "color_by": "division",
+    "color_by": "location",
     "distance_measure": "num_date",
-    "geo_resolution": "division",
+    "geo_resolution": "location",
     "map_triplicate": true,
     "branch_label": "none"
   },
