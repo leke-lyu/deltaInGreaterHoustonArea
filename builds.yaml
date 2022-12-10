@@ -10,19 +10,16 @@ builds:
 	texas_global:
 		title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
 		subsampling_scheme: all
-		colors: "deltaInGreaterHoustonArea/colors.tsv"
 		auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_global.json"
 	texas_usa:
 		title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
 		subsampling_scheme: custom-usa
 		country: USA
-		colors: "deltaInGreaterHoustonArea/colors.tsv"
 		auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_usa.json"
 	texas_self:
 		title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
 		subsampling_scheme: custom-texas
 		division: Texas
-		colors: "deltaInGreaterHoustonArea/colors.tsv"
 		auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_self.json"
 
 subsampling:
@@ -30,10 +27,9 @@ subsampling:
 		exclude: "--exclude-where 'country!={country}'"
 	custom-texas:
 		exclude: "--exclude-where 'division!={division}'"
-
+		
 files:
 	colors: "deltaInGreaterHoustonArea/colors.tsv"
-	auspice_config: "deltaInGreaterHoustonArea/auspice_config.json"
 	description: "deltaInGreaterHoustonArea/description.md"
 
 traits:
