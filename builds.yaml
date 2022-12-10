@@ -1,5 +1,5 @@
 inputs:
-	- name: "custom_data"
+  - name: "custom_data"
 		metadata: "deltaInGreaterHoustonArea/data/deltaInTexas.metadata.tsv"
 		sequences: "deltaInGreaterHoustonArea/data/deltaInTexas.sequences.fasta"
 	- name: "reference_data"
