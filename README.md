@@ -32,3 +32,5 @@ From within the ncov/ directory, run the workflow using a configuration file pro
 ```shell
 nextstrain build . --configfile deltaInGreaterHoustonArea/builds.yaml 
 ```
+
+Visualize the results in this [link](https://nextstrain.org/community/leke-lyu/ncov)
