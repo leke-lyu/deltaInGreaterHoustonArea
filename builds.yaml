@@ -7,26 +7,26 @@ inputs:
     sequences: "deltaInGreaterHoustonArea/data/references_sequences.fasta"
     
 builds:
-  texas_global:
-    title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
+  global:
+    title: "Genomic epidemiology of Delta variant in Texas with Global Backgrounds"
     subsampling_scheme: all
-    auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_global.json"
-  texas_usa:
-    title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
-    subsampling_scheme: custom-usa
-    country: USA
-    auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_usa.json"
-  texas_self:
-    title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
+    auspice_config: "deltaInGreaterHoustonArea/auspice_config_global.json"
+  texas:
+    title: "Genomic epidemiology of Delta variant in Texas"
     subsampling_scheme: custom-texas
+    country: USA
+    auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas.json"
+  houston:
+    title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
+    subsampling_scheme: custom-houston
     division: Texas
-    auspice_config: "deltaInGreaterHoustonArea/auspice_config_texas_self.json"
+    auspice_config: "deltaInGreaterHoustonArea/auspice_config_houston.json"
 
 subsampling:
-  custom-usa:
+  custom-texas:
     country:
       exclude: "--exclude-where 'country!={country}'"
-  custom-texas:
+  custom-houston:
     division:
       exclude: "--exclude-where 'division!={division}'"
 
@@ -35,11 +35,11 @@ files:
   description: "deltaInGreaterHoustonArea/description.md"
 
 traits:
-  texas_global:
+  global:
     columns: ["country", "division", "location"]
-  texas_usa:
+  texas:
     columns: ["division", "location"]
-  texas_self:
+  houston:
     columns: ["location"]
 
 
