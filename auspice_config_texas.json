@@ -1,6 +1,6 @@
 {
-  "title": "Genomic epidemiology of Delta variant in the Greater Houston, TX",
-  "build_url": "https://github.com/leke-lyu/greater-houston-sarscov2",
+  "title": "Genomic epidemiology of Delta variant in Texas",
+  "build_url": "https://github.com/leke-lyu/deltaInGreaterHoustonArea",
   "maintainers": [
     {"name": "Leke Lyu", "url": "https://github.com/leke-lyu"}
   ],
