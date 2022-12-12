@@ -33,4 +33,4 @@ From within the `ncov` directory, run the workflow using a configuration file pr
 nextstrain build . --configfile deltaInGreaterHoustonArea/builds.yaml 
 ```
 
-[Visualize the results in here.]([https://nextstrain.org/community/leke-lyu/ncov](https://nextstrain.org/community/leke-lyu/ncov/houston?dmax=2021-08-13&dmin=2021-06-22))
+[Visualize the results in here.]([https://nextstrain.org/community/leke-lyu/ncov](https://nextstrain.org/community/leke-lyu/ncov/houston?dmax=2021-08-13&dmin=2021-06-22)
