@@ -1,230 +1,231 @@
-region	North America	#A50026
-region	Africa	#EE603D
-region	Europe	#FDCC7D
-region	Oceania	#CAE8F2
-region	Asia	#6AA1CB
-region	South America	#313695
-country	USA	#A50026
-country	Africa	#D22B26
-country	Europe	#EE603D
-country	Oceania	#FA9A58
-country	Asia	#FDCC7D
-country	Canada	#EFE9C3
-country	Mexico	#CAE8F2
-country	South America	#9ACBE1
-country	Martinique	#6AA1CB
-country	Puerto Rico	#426EB0
-country	Costa Rica	#313695
-division	Texas	#A50026
-division	California	#AC0726
-division	Nevada	#B40E26
-division	Africa	#BB1526
-division	Florida	#C31C26
-division	Massachusetts	#CA2426
-division	Maryland	#D22B26
-division	Idaho	#D83328
-division	North Carolina	#DC3C2C
-division	Europe	#E14530
-division	Oceania	#E54E35
-division	Asia	#E95739
-division	Canada	#EE603D
-division	Utah	#F26941
-division	Mississippi	#F47346
-division	Alabama	#F67D4A
-division	Illinois	#F7874F
-division	Connecticut	#F89053
-division	New York	#FA9A58
-division	Mexico	#FBA45C
-division	Colorado	#FDAE61
-division	South America	#FDB568
-division	Washington	#FDBD6F
-division	Arkansas	#FDC476
-division	Tennessee	#FDCC7D
-division	Georgia	#FDD384
-division	South Carolina	#FDDB8B
-division	Arizona	#FCE095
-division	Iowa	#F8E3A4
-division	Pennsylvania	#F3E6B4
-division	New Jersey	#EFE9C3
-division	Kansas	#EAECD3
-division	Delaware	#E6EFE3
-division	Virginia	#E1F2F2
-division	Missouri	#DAF0F6
-division	Indiana	#D2ECF4
-division	Wisconsin	#CAE8F2
-division	Rhode Island	#C2E4EF
-division	Oregon	#BAE0ED
-division	Martinique	#B2DCEB
-division	Maine	#ABD9E9
-division	New Mexico	#A2D2E5
-division	Wyoming	#9ACBE1
-division	New Hampshire	#92C5DE
-division	Puerto Rico	#8ABEDA
-division	Louisiana	#81B7D6
-division	District of Columbia	#79B1D3
-division	West Virginia	#71AACF
-division	Minnesota	#6AA1CB
-division	Hawaii	#6399C6
-division	Montana	#5C90C2
-division	Alaska	#5588BE
-division	Michigan	#4E80B9
-division	Ohio	#4777B5
-division	Kentucky	#426EB0
-division	Nebraska	#4065AC
-division	South Dakota	#3C5BA7
-division	Vermont	#3A52A2
-division	Oklahoma	#36489E
-division	Costa Rica	#343F99
-division	North Dakota	#313695
-location	Dallas county	#A50026
-location	Williamson county	#A70226
-location	Comal county	#AA0526
-location	Cherokee county	#AD0826
-location	California	#B00B26
-location	Tarrant county	#B30E26
-location	Harris county	#B61126
-location	Midland county	#B91426
-location	Cameron county	#BC1626
-location	Fort Bend county	#BF1926
-location	Hood county	#C21C26
-location	Travis county	#C51F26
-location	Nevada	#C82226
-location	Africa	#CB2526
-location	Florida	#CE2826
-location	Massachusetts	#D12A26
-location	Maryland	#D42D26
-location	Idaho	#D73027
-location	North Carolina	#D93429
-location	Europe	#DA382A
-location	Oceania	#DC3B2C
-location	Asia	#DE3F2E
-location	Milam county	#E0422F
-location	Grayson county	#E14631
-location	Canada	#E34A33
-location	Utah	#E54D34
-location	Mississippi	#E65136
-location	Potter county	#E85538
-location	Alabama	#EA5839
-location	Austin county	#EC5C3B
-location	Illinois	#ED603D
-location	Bexar county	#EF633E
-location	Connecticut	#F16740
-location	Brazos county	#F36A42
-location	New York	#F46E43
-location	Morris county	#F47245
-location	Mexico	#F57647
-location	Colorado	#F57A49
-location	South America	#F67E4A
-location	Collin county	#F6824C
-location	Bastrop county	#F7854E
-location	Washington	#F78950
-location	Arkansas	#F88D52
-location	Tennessee	#F99153
-location	Georgia	#F99555
-location	South Carolina	#FA9957
-location	Hardeman county	#FA9D59
-location	Smith county	#FBA15B
-location	Bowie county	#FBA45C
-location	El Paso county	#FCA85E
-location	Bell county	#FCAC60
-location	Arizona	#FDAF62
-location	Hays county	#FDB265
-location	Rockwall county	#FDB568
-location	Lubbock county	#FDB86B
-location	Armstrong county	#FDBB6E
-location	Crosby county	#FDBE70
-location	Ector county	#FDC173
-location	Hale county	#FDC476
-location	Ochiltree county	#FDC779
-location	Shelby county	#FDCA7C
-location	Iowa	#FDCD7E
-location	Pennsylvania	#FDD081
-location	New Jersey	#FDD384
-location	Wise county	#FDD687
-location	Denton county	#FDD98A
-location	Jefferson county	#FDDC8C
-location	Hunt county	#FDDF8F
-location	Wichita county	#FCE195
-location	Jim Wells county	#FAE29B
-location	Kansas	#F8E3A1
-location	Frio county	#F7E4A8
-location	Delaware	#F5E5AE
-location	Virginia	#F3E6B4
-location	Missouri	#F1E7BA
-location	Indiana	#EFE8C0
-location	Wisconsin	#EEEAC7
-location	Rhode Island	#ECEBCD
-location	Oregon	#EAECD3
-location	Hidalgo county	#E8EDD9
-location	Fayette county	#E6EEDF
-location	Martinique	#E5EFE6
-location	Maine	#E3F0EC
-location	New Mexico	#E1F1F2
-location	Galveston county	#DFF2F7
-location	Angelina county	#DCF1F7
-location	Liberty county	#D9EFF6
-location	Caldwell county	#D6EEF5
-location	Wilson county	#D3ECF4
-location	Webb county	#CFEBF3
-location	Wyoming	#CCE9F2
-location	Montgomery county	#C9E7F1
-location	McLennan county	#C6E6F0
-location	Nueces county	#C3E4EF
-location	Kaufman county	#C0E3EE
-location	DeWitt county	#BCE1EE
-location	Blanco county	#B9E0ED
-location	Brazoria county	#B6DEEC
-location	Orange county	#B3DDEB
-location	New Hampshire	#B0DBEA
-location	Puerto Rico	#ADDAE9
-location	Louisiana	#A9D8E8
-location	Llano county	#A6D5E7
-location	Parker county	#A3D2E5
-location	Burnet county	#A0D0E4
-location	Taylor county	#9CCDE2
-location	Lavaca county	#99CBE1
-location	District of Columbia	#96C8DF
-location	Atascosa county	#92C5DE
-location	Gregg county	#8FC3DD
-location	San Patricio county	#8CC0DB
-location	Palo Pinto county	#89BDDA
-location	West Virginia	#85BBD8
-location	Ellis county	#82B8D7
-location	Brown county	#7FB6D5
-location	Minnesota	#7CB3D4
-location	Kendall county	#78B0D3
-location	Trinity county	#75AED1
-location	Hawaii	#72ABD0
-location	Polk county	#6FA7CE
-location	Castro county	#6CA4CC
-location	Montana	#6AA1CA
-location	Alaska	#679DC9
-location	Michigan	#649AC7
-location	Willacy county	#6197C5
-location	Matagorda county	#5E93C3
-location	Ohio	#5C90C2
-location	Kentucky	#598DC0
-location	Coryell county	#5689BE
-location	Nebraska	#5386BD
-location	Guadalupe county	#5083BB
-location	Hardin county	#4E7FB9
-location	Waller county	#4B7CB7
-location	Medina county	#4879B6
-location	Johnson county	#4575B4
-location	Pecos county	#4472B2
-location	South Dakota	#426EB0
-location	Vermont	#416AAE
-location	Coleman county	#4066AD
-location	Tyler county	#3F63AB
-location	Oklahoma	#3E5FA9
-location	San Jacinto county	#3C5BA7
-location	Scurry county	#3B57A5
-location	Leon county	#3A54A3
-location	Costa Rica	#3950A1
-location	Callahan county	#384CA0
-location	Red River county	#36489E
-location	Tom Green county	#35459C
-location	Andrews county	#34419A
-location	Hill county	#333D98
-location	Anderson county	#323996
-location	North Dakota	#313695
+region	North America	#E41A1C
+region	Asia	#449B75
+region	South America	#AC5782
+region	Oceania	#FFE528
+region	Africa	#C66764
+region	Europe	#999999
+country	USA	#E41A1C
+country	Canada	#3A85A8
+country	Mexico	#629363
+country	Guadeloupe	#C4625D
+country	Martinique	#FFC81D
+country	Sint Maarten	#BF862B
+country	Puerto Rico	#EB7AA9
+country	Guatemala	#999999
+country	North America	#E41A1C
+country	Asia	#449B75
+country	South America	#AC5782
+country	Oceania	#FFE528
+country	Africa	#C66764
+country	Europe	#999999
+division	Texas	#E41A1C
+division	Florida	#C62B36
+division	Minnesota	#A93C51
+division	Maryland	#8B4D6B
+division	California	#6E5E86
+division	Louisiana	#506FA0
+division	New York	#377FB5
+division	Kansas	#3B87A2
+division	Nevada	#3E8F90
+division	Massachusetts	#42987D
+division	Illinois	#46A06A
+division	Nebraska	#4AA858
+division	Virginia	#50AA4D
+division	New Jersey	#5C9A5C
+division	South Carolina	#69896C
+division	Arkansas	#76797B
+division	Wisconsin	#83688A
+division	Georgia	#905899
+division	Utah	#9E5198
+division	Oklahoma	#B0597C
+division	District of Columbia	#C16161
+division	Oregon	#D36A45
+division	New Hampshire	#E47229
+division	Washington	#F67A0D
+division	West Virginia	#FF8904
+division	Kentucky	#FF9F0D
+division	Arizona	#FFB515
+division	Iowa	#FFCB1E
+division	North Carolina	#FFE127
+division	Ohio	#FFF62F
+division	Connecticut	#F5ED31
+division	Delaware	#E6D02F
+division	Colorado	#D7B32E
+division	Indiana	#C8962C
+division	New Mexico	#B8792A
+division	Maine	#A95D28
+division	Tennessee	#B05B3B
+division	Vermont	#BE6254
+division	Alaska	#CB6A6E
+division	Michigan	#D97188
+division	Hawaii	#E778A2
+division	Wyoming	#F580BB
+division	Idaho	#E984B9
+division	South Dakota	#D988B2
+division	Alabama	#C98CAC
+division	Missouri	#B990A5
+division	Montana	#A9949F
+division	Pennsylvania	#999999
+division	USA	#E41A1C
+division	Canada	#3A85A8
+division	Mexico	#629363
+division	Guadeloupe	#C4625D
+division	Martinique	#FFC81D
+division	Sint Maarten	#BF862B
+division	Puerto Rico	#EB7AA9
+division	Guatemala	#999999
+division	North America	#E41A1C
+division	Asia	#449B75
+division	South America	#AC5782
+division	Oceania	#FFE528
+division	Africa	#C66764
+division	Europe	#999999
+location	Dallas county	#E41A1C
+location	Denton county	#D3232A
+location	Fort Bend county	#C32C39
+location	Harris county	#B33547
+location	Tarrant county	#A33F56
+location	Travis county	#934864
+location	Bexar county	#835173
+location	Hood county	#735B81
+location	San Patricio county	#636490
+location	El Paso county	#536D9E
+location	Cameron county	#4377AD
+location	Parker county	#377FB5
+location	Collin county	#3983AB
+location	Matagorda county	#3B88A0
+location	Galveston county	#3D8C96
+location	Nacogdoches county	#3F918C
+location	Liberty county	#419582
+location	McLennan county	#439A78
+location	Brazoria county	#459F6D
+location	Rockwall county	#47A363
+location	Montgomery county	#49A859
+location	Milam county	#4BAC4F
+location	Williamson county	#50AA4E
+location	Nueces county	#57A156
+location	Lampasas county	#5E985E
+location	Lubbock county	#658F66
+location	Pecos county	#6C866F
+location	Reeves county	#737D77
+location	Ector county	#7A747F
+location	Moore county	#816B88
+location	Potter county	#886290
+location	Midland county	#8F5998
+location	Hockley county	#9650A0
+location	Hale county	#9F5197
+location	Tom Green county	#A85588
+location	Angelina county	#B25A79
+location	Chambers county	#BB5F6A
+location	Washington county	#C5635A
+location	Live Oak county	#CF684B
+location	Walker county	#D86C3C
+location	Gregg county	#E2712D
+location	Johnson county	#EB751E
+location	Hidalgo county	#F57A0F
+location	Webb county	#FF7F00
+location	Ellis county	#FF8A04
+location	Jefferson county	#FF9609
+location	San Jacinto county	#FFA20E
+location	Smith county	#FFAE12
+location	Guadalupe county	#FFBA17
+location	Bell county	#FFC61C
+location	Wise county	#FFD221
+location	Hardin county	#FFDE25
+location	Palo Pinto county	#FFEA2A
+location	Armstrong county	#FFF62F
+location	Gillespie county	#FCFB32
+location	Wichita county	#F4EB31
+location	Colorado county	#ECDB30
+location	Morris county	#E4CB2F
+location	Atascosa county	#DBBC2E
+location	Grayson county	#D3AC2D
+location	Brooks county	#CB9C2C
+location	Hays county	#C28D2B
+location	Tyler county	#BA7D2A
+location	Kendall county	#B26D29
+location	Comal county	#AA5D28
+location	Kaufman county	#A9582F
+location	Wilson county	#B15C3D
+location	Nolan county	#B85F4B
+location	Cass county	#C06359
+location	Bowie county	#C76867
+location	Henderson county	#CF6C75
+location	Karnes county	#D67083
+location	Ward county	#DE7391
+location	Willacy county	#E6779F
+location	Orange county	#ED7BAD
+location	Red River county	#F580BB
+location	Brazos county	#F082BC
+location	Rusk county	#E784B8
+location	Waller county	#DE87B5
+location	Winkler county	#D689B1
+location	Wharton county	#CD8BAE
+location	Medina county	#C48DAA
+location	Erath county	#BB90A7
+location	Uvalde county	#B392A3
+location	Jackson county	#AA94A0
+location	Glasscock county	#A1969C
+location	Jim Wells county	#999999
+location	Texas	#E41A1C
+location	Florida	#C62B36
+location	Minnesota	#A93C51
+location	Maryland	#8B4D6B
+location	California	#6E5E86
+location	Louisiana	#506FA0
+location	New York	#377FB5
+location	Kansas	#3B87A2
+location	Nevada	#3E8F90
+location	Massachusetts	#42987D
+location	Illinois	#46A06A
+location	Nebraska	#4AA858
+location	Virginia	#50AA4D
+location	New Jersey	#5C9A5C
+location	South Carolina	#69896C
+location	Arkansas	#76797B
+location	Wisconsin	#83688A
+location	Georgia	#905899
+location	Utah	#9E5198
+location	Oklahoma	#B0597C
+location	District of Columbia	#C16161
+location	Oregon	#D36A45
+location	New Hampshire	#E47229
+location	Washington	#F67A0D
+location	West Virginia	#FF8904
+location	Kentucky	#FF9F0D
+location	Arizona	#FFB515
+location	Iowa	#FFCB1E
+location	North Carolina	#FFE127
+location	Ohio	#FFF62F
+location	Connecticut	#F5ED31
+location	Delaware	#E6D02F
+location	Colorado	#D7B32E
+location	Indiana	#C8962C
+location	New Mexico	#B8792A
+location	Maine	#A95D28
+location	Tennessee	#B05B3B
+location	Vermont	#BE6254
+location	Alaska	#CB6A6E
+location	Michigan	#D97188
+location	Hawaii	#E778A2
+location	Wyoming	#F580BB
+location	Idaho	#E984B9
+location	South Dakota	#D988B2
+location	Alabama	#C98CAC
+location	Missouri	#B990A5
+location	Montana	#A9949F
+location	Pennsylvania	#999999
+location	USA	#E41A1C
+location	Canada	#3A85A8
+location	Mexico	#629363
+location	Guadeloupe	#C4625D
+location	Martinique	#FFC81D
+location	Sint Maarten	#BF862B
+location	Puerto Rico	#EB7AA9
+location	Guatemala	#999999
+location	North America	#E41A1C
+location	Asia	#449B75
+location	South America	#AC5782
+location	Oceania	#FFE528
+location	Africa	#C66764
+location	Europe	#999999
